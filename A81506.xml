@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A damnable treason, by a contagious plaster of a plague-sore wrapt up in a letter, and sent to Mr. Pym : wherein is discovered a divellish, and unchristian plot against the High Court of Parliament, Oct. 25. 1641.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81506</idno>
+            <idno type="STC">Wing D157</idno>
+            <idno type="STC">Thomason E173_23</idno>
+            <idno type="STC">ESTC R14788</idno>
+            <idno type="EEBO-CITATION">99859734</idno>
+            <idno type="PROQUEST">99859734</idno>
+            <idno type="VID">111830</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81506)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111830)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E173[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A damnable treason, by a contagious plaster of a plague-sore wrapt up in a letter, and sent to Mr. Pym : wherein is discovered a divellish, and unchristian plot against the High Court of Parliament, Oct. 25. 1641.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. B.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Anno Dom. 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Woodcut port. of John Pym with complimentary verses on t.p.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pym, John, 1584-1643.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111830:1" rendition="simple:additions"/>
+            <p>A DAMNABLE TREASON, By a Contagious Plaſter of a PLAGUE-SORE: Wrapt up in a <hi>Letter,</hi> and ſent to Mr. PYM: Wherein is di<g ref="char:EOLhyphen"/>covered a Divelliſh, and Unchriſtian Plot againſt the High Court of PARLIAMENT, <hi>October</hi> 25. 1641.</p>
+            <figure>
+               <head>The true Ef<g ref="char:EOLhyphen"/>fige of M. I. Pym, Eſqu. Burgeſſe in he High Court of Par<g ref="char:EOLunhyphen"/>liament for Taviſtock in Devonſhire.</head>
+               <q>
+                  <l>Reade in this Image him, whoſe deereſt Blood</l>
+                  <l>Is thought no price, to buy his Countries good,</l>
+                  <l>VVhoſe name ſhall flouriſh, till the blaſt of Fame</l>
+                  <l>Shall want a Trumpet, or true worth, a Name.</l>
+               </q>
+               <figDesc>depiction of John Pym, English Parliamentarian (1584-1643)</figDesc>
+            </figure>
+            <p>
+               <hi>Printed for</hi> W. B. <hi>Anno Dom. 1641.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="illustration">
+            <pb facs="tcp:111830:2"/>
+            <p>
+               <figure>
+                  <figDesc>(?)depiction of John Pym, English Parliamentarian (1584-1643)</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="account_of_a_letter_sent_to_Mr._Pym">
+            <pb facs="tcp:111830:2"/>
+            <head>A Damnable TREASON: BY A PLAGVE-SORE: Wrapt up in a Letter, and ſent to Mr. <hi>PYM.</hi>
+            </head>
+            <p>ARe ye ſtill involved in ſuch inveterate malice (O ye the breath of Romiſh Dragons) to caſt your poyſon at our pureſt Fountains! O gree<g ref="char:EOLhyphen"/>dy Caterpillars: why doe you ſeeke to de<g ref="char:EOLhyphen"/>voure our choyſeſt Plants? Doe ye not know that in ſtriving againſt Gods deareſt Saints, yee doe but with too great paines weave out your own Deſtruction; for God beholdeth all your miſchiefe, and ſaveth the righ<g ref="char:EOLhyphen"/>teous from the cruelly?</p>
+            <p>How bold was this attempt of inhumanity, and filthi<g ref="char:EOLhyphen"/>neſſe in the very abſtract. And that attempted not from ſome ſecure place, or Our-ſide of the City: but neere the very heart, and in the face of the City, at <hi>Ludgate:</hi> where they might have but caſt up their eyes, and lookt upon that famous Monument of Queene <hi>Elizabeth,</hi> the Memoriall whereof may ſtrike them with terrour to all Ages. But ſee the ſuttlety of this Damnable Project, compiled without all Chriſtianity. Whether it was a
+<pb facs="tcp:111830:3"/>man, or woman, ſpirit of Divell. This without all doubt is certaine, that the filthieſt puddle of Helliſh Corru<g ref="char:EOLhyphen"/>ption, cannot be more deteſtable A Man in the ſhape of a Divell, or the Divell in ſhape of a Man, became viſibly the onely Actor in this uncleane Conſpiraſie. And whe<g ref="char:EOLhyphen"/>ther becauſe to hide his ſhaggy haire, or to transforme his viſſadge, he comes not in his hat, but with a Moun<g ref="char:EOLhyphen"/>teere on his head. This thought he, will in ſome Caſe keepe mee, that I may the farther preſume to bee kept from Diſcovery.</p>
+            <p>And for his Meſſenger he takes not ſuch an one, who had any knowledge of him; leſt ſo unconſtancy ſhould move diſcovery: he takes away ſuch ſuſpition, and cal<g ref="char:EOLhyphen"/>led a ſturdy Porter, whom hee thought (being ignorant of what he did) would effect this matter as it was in<g ref="char:EOLhyphen"/>tended: which that hee ſhould be the more ready to performe, he rewarded him with 12. pence, which made the Porter to be very ready to undertake the delivery, and doe the meſſage, little knowing (without all doubt, as is conceived) the great and filthy burden that he was to carry. The Gentleman habited, but Dunghill, nay, fil<g ref="char:EOLhyphen"/>thy Actor takes into his polluted hands a Letter which he delivered incontinently to the Porter, with ſuch Re<g ref="char:EOLhyphen"/>lations, as if his actions had bin reall.</p>
+            <p>
+               <hi>The Letter was to be delivered to the Honourable Mr. Pym,</hi> &amp; at the Parlament houſe; there was the aime of this conſpiracie even to undo us all by depriving us of theſe worthy pillers of our Kingdome.</p>
+            <p>But thought hee, perhaps Maſter <hi>Pym</hi> may not be there, what then? what ſhall be done? if this porter deliver the letter careleſly, Maſter <hi>Pym</hi> being from the Houſe, this may perhaps not take effect, therefore, porter (quoth he) if thou doſt not ſee Maſter <hi>Pym</hi> himſelfe, leave the letter with the doore-keeper, (di<g ref="char:EOLhyphen"/>recting him carefully to deliver it to his own hands;) this was plotted to the end it ſhould bee opened; and vewed by the whole houſe.</p>
+            <pb facs="tcp:111830:3"/>
+            <p> Thus the porter went to <hi>Weſtminſter</hi> to perform his meſſage O poore man, thou never carried'ſt ſuche burden, a faire letter full of filth.</p>
+            <p>When he came to the Parliament houſe, hee deli<g ref="char:EOLhyphen"/>vered the letter according to the direction. Which Mr <hi>Pym</hi> received very courteouſly, little imagining what was within the letter; who ſitting in the houſe of Com<g ref="char:EOLhyphen"/>mons, incontinently before the Honourable Aſſembly brake it open in the view of the whole Houſe; which being opened! (Oh who can parallell ſo unchriſtian an action, did Hell ever before broach the like? Behold, admire and wonder. O the filthineſſe of this invention, did ever letter encloſe the like? who could ever have thought that any chriſtian ſhould have forged ſuch an invention.)</p>
+            <p>IN the Letter was encloſed a filthy clout, with the contagious plaſter of a Plague ſore upon it; would not this have ſtarted the ſtouteſt <hi>Hector</hi> or <hi>Hercu<g ref="char:EOLhyphen"/>les,</hi> would not this have made the ſtouteſt heart to tremble, when a man ſhould open it in the preſence of ſuch an aſſembly, a letter full of nothing but a poluted clout in the corruption of a plague ſore; but yet oh noble Senators, hold up your heads with comfort for God is with you.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="letter">
+                        <pb facs="tcp:111830:4"/>
+                        <head>The wicked Lines that were writ in the LETTER.</head>
+                        <head>To my honoured friend, John Pym, <hi>Eſq;</hi>
+                        </head>
+                        <opener>
+                           <salute>Mr. Pym,</salute>
+                        </opener>
+                        <p>Doe not thinke that a Guard of men can protect you, if you persiſt in your Traytorous courſes, and wicked Deſignes. I have ſent a Paper-Meſſenger to you, and if this doe not touch your heart, a Dagger ſhall, ſo ſoon as I am recovered of my Plague-ſore: In the mean time you may be forborne, becauſe no better man may bee indangered for you.</p>
+                        <closer>
+                           <salute>Repent <hi>Traytor.</hi>
+                           </salute>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>What a bold, wicked preſumption was this, thus to abuſe that Honourable, and worthy Gentleman; whom I pray God, ever to protect, with comfort, peace, honour, ſafety, in this life: and in the Life to come, eter<g ref="char:EOLhyphen"/>nall Glory? What would ſuch as theſe doe, in caſe they might have their will who dare thus to breath out their poyſon againſt the Honourable Aſſembly!</p>
+            <p>O wretched abuſers, to call him Traytor, who is ſo good a Subject. But as a Lyars tongue is no ſlander; ſo ſuch poyſoned Aſpes cannot hurt, whom God preſerves. Doth not the whole Kingdome talk with one voyce a<g ref="char:EOLhyphen"/>greeing, that we are happy in ſuch as hee, whom God preſerve amongſt us?</p>
+            <p>Was ever ſuch a <hi>Paper-Meſſenger</hi> ſent before: by which, what rationall man in the world will not ſay, that ſuch Popiſh Inventions come from the Divell.</p>
+            <p>But let me aske them why they doe preſume, that to threaten to prevaile with Sword, or Punyard? Is not God the Guide of all things, hee can turne your owne
+<pb facs="tcp:111830:4"/>ſwords upon your ſelves, ye Helliſh Plotters, &amp; deſtroy you utterly with your owne weapons, in the middeſt of your greateſt Glory.</p>
+            <p>See your owne vanity: are not your two dayes paſt; and yet God hath bleſſed, and preſerved them all from your hands; and ſo I truſt he will for ever.</p>
+            <p>God overturne at his owne time, and in his owne way, all thoſe Wicked, and Damnable Plots of the un<g ref="char:EOLhyphen"/>godly Papiſts. But ever let this Bleſſing light on and go along with the Honourable Aſſembly, in all their Conſultations, and Decrees: that God may bee thereby glorified, Reformation wrought, Peace and Tranquility ſetled, and the whole Land become the People of the Lord for ever.</p>
+            <div type="part">
+               <head>The true Relation how he was deſcryed.</head>
+               <p>SEarch being made (by Command from the Houſe) for the finding out of this wretched fellow, who de<g ref="char:EOLhyphen"/>livered the Letter to the porter. They came to the Inne where it was ſuppoſed he lay, as he was deſcribed by the Porter, and a Boy: who alſo caſually looked upon him when he ſent the Porter. This boy comming to the Inne puts on a Tapſters Apron, and ranne up the Staires in<g ref="char:EOLhyphen"/>to his Chamber, with a good ſpirit (as he was directed) that ſo hee might ſee whether it was the man, or not, Anan, anan, anan Sir, ſaith he, what lacke ye: who being
+<pb facs="tcp:111830:5"/>in Bed; ſaid, he did not call, but being to goe out early that morning, before it was day: he therefore called for a Candle, which was brought him. Then the boy looked upon his noſe, and ſaw a Wart, of which before he took notice. as alſo a red Ribond about his arme; of which, he gave information to the Conſtables, hee were there ready, and to apprehend him preſently, who denyed it. But the Porter and the Boy accuſed him: he being asked, if he had taken the Oath of Allegeance; he ſaid, he ne<g ref="char:EOLhyphen"/>ver knew what it meant.</p>
+               <p>But in <hi>fine,</hi> he is committed to the Gate-houſe, &amp; when it ſhall pleaſe the Honourabls Aſſembly to bring him to his tryall: I pray God that his providence may ſo rule the matter; that what miſchiefe, plots, Innova<g ref="char:EOLhyphen"/>tions, or popiſh Treacheries, lye hid under his know<g ref="char:EOLhyphen"/>ledge, may, by him be diſcovered, and all other whatſo<g ref="char:EOLhyphen"/>ever, in Gods good time; which God grant, for his Chriſt, his ſake, <hi>Amen.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:111830:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
